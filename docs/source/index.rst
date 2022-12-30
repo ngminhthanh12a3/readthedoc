@@ -18,8 +18,7 @@ Contents
 
 .. toctree::
 
-   usage
-   api
    newpage
    newpage2
-   
+   usage
+   api
