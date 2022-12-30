@@ -22,5 +22,3 @@ Contents
    api
    newpage
    newpage2
-   
-Lumache has its documentation hosted on Read the Docs.
