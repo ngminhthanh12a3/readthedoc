@@ -21,4 +21,3 @@ Contents
    newpage
    newpage2
    usage
-   api
